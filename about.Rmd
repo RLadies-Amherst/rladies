@@ -1,10 +1,19 @@
 ---
 title: "About Us"
-description: |
-  
+output: distill::distill_article
 ---
 
+Amherst RLadies started in Fall of 2019 with a few speaker events, but we've expanded to holding weekly meetings to work on mini data wrangling projects. We'd love for you to join us, regardless of your gender identity! Want to join or stop by to one of our meetings or events? 
+
+- Join our [GroupMe](https://groupme.com/join_group/66718112/xHuAqfAg) for more information on what we're up to.
+- Hop on our weekly [Zoom](https://amherstcollege.zoom.us/s/98581387329) (typically 8-9 PM EST for Spring 2021, but check our GroupMe for updates).
+- Check out our [GitHub](https://github.com/RLadies-Amherst/RLadies-Amherst) for a list of events.
+
+## Why did we start RLadies?
+We wanted to create a community where people could get together to work on projects and to learn more about R, statistics, and data science. 
+
 ## Why do we like RLadies?
+RLadies is a great community and friendly environment for everyone to learn more about statistics and do fun projects! 
 
 ```{r, echo = FALSE}
 library(wordcloud)
