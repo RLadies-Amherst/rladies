@@ -6,9 +6,8 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
+<img src = "https://raw.githubusercontent.com/aboskovic21/tidy_tuesday/main/2021/avatar_plot.jpg" width="500" height="500">
 
 
-
-
-
+[A Shiny app to visualize dairy data!](https://r.amherst.edu/apps/aboskovic21/tidytuesday_w12/)
 
