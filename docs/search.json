@@ -3,53 +3,41 @@
     {
       "path": "about.html",
       "title": "About Us",
+      "description": "More information about RLadies Amherst\n",
       "author": [],
-      "contents": "\nAmherst RLadies started in Fall of 2019 with a few speaker events, but we’ve expanded to holding weekly meetings to work on mini data wrangling projects. We’d love for you to join us, regardless of your gender identity! Want to join or stop by to one of our meetings or events?\nJoin our GroupMe for more information on what we’re up to.\nHop on our weekly Zoom (typically 8-9 PM EST for Spring 2021, but check our GroupMe for updates).\nCheck out our GitHub for a list of events.\nWhy did we start RLadies?\nWe wanted to create a community where people could get together to work on projects and to learn more about R, statistics, and data science.\nWhy do we like RLadies?\nRLadies is a great community and friendly environment for everyone to learn more about statistics and do fun projects!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-05-12T21:38:07-04:00"
+      "contents": "\nRLadies Amherst started in Fall of 2019 with a few speaker events, but we’ve expanded to holding weekly meetings to work on mini data wrangling projects. We’d love for you to join us, regardless of your gender identity! Want to join or stop by to one of our meetings or events?\nJoin our GroupMe for more information on what we’re up to.\nHop on our weekly Zoom (typically 8-9 PM EST for Spring 2021, but check our GroupMe for updates).\nCheck out our GitHub.\nWhy did we start RLadies?\nWe wanted to create a community where people could get together to work on projects and to learn more about R, statistics, and data science.\nWhy do we like RLadies?\nRLadies is a great community and friendly environment for everyone to learn more about statistics and do fun projects!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-05-27T23:34:28-04:00"
     },
     {
       "path": "events.html",
       "title": "Events",
-      "description": "A new article created using the Distill format.\n",
-      "author": [
-        {
-          "name": "Nora Jones",
-          "url": "https://example.com/norajones"
-        }
-      ],
-      "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-05-12T21:38:08-04:00"
+      "description": "A list of past and upcoming RLadies events\n",
+      "author": [],
+      "contents": "\nFall 2021: Information Coming Soon\nSpring 2021\nIn addition to weekly Tidy Tuesday sessions, we had the following special events.\nMonday Mar 29 5:30-6:30: Maria Tackett\nWe are pleased to have Maria Tackett coming to speak about building websites in RStudio! She motivates why RStudio is useful for building websites, discusses Distill and Blogdown, two R packages used for website development, and concludes by sharing tips and some lessons she learned along the way.\nWednesday Apr 14 8-9: Python for R Users Crash Course\nJessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R.\nSpring 2020\nAmy Nussbaum: Visualizing Data Through Maps\nAmy Nussbaum is a Professor of Statistics at Mount Holyoke College. She will be giving a talk about data visualization with maps.\nBrittney Bailey and Katharine Correia: Panel on Careers in Statistics and Data Science\nBrittney Bailey and Katharine Correia are both professors at Amherst College. They will be speaking about their academic journies in statistics. This event is in the form of a panel, so feel free to come with questions.\nKrista Gile\nKrista Gile, Professor in the Mathematics and Statistics Department at UMass Amherst, will be discussing her personal journey interwoven with her research. Professor Giles’ research focuses on creating a statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures.\nSara Stoudt\nSara Stoudt, a former Smith College student, will be giving an overview of her work and then doing a question and answer about career opportunities. Sara now does research in Applied and Theoretical Statistics at the University of California, Berkeley.\nDana Udwin\nDana Udwin, a Smith College alumna and third-year Biostatistics PhD student at Brown University, reflects on industry and graduate school in statistics and data science. As a graduate of the MassMutual Data Science Development Program, a program in which she worked as a data scientist and pursued a master’s in statistics from UMass Amherst, Dana has a unique perspective on industry and academia.\n\n\n\n",
+      "last_modified": "2021-05-27T23:34:28-04:00"
     },
     {
       "path": "index.html",
       "title": "RLadies Amherst",
       "author": [],
-      "contents": "\n\n          \n      \n      RLadies Amherst\n      \n      \n      Home\n      About\n      Events\n      Tidy Tuesday\n      Members\n      ☰\n      \n      \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About Us\n            RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! RLadies is a world-wide organization to promote gender diversity in the R community.\n            \n            \n            Join Us!\n            Join our GroupMe! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!\n            We typically meet on Wednesdays 8-9 PM ET on our recurring Zoom link.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              About Us\n              RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events! RLadies is a world-wide organization to promote gender diversity in the R community.\n              \n              \n              Join Us!\n              Join our GroupMe! Want to join our Slack channel? Email Andrea or Jess (info at the bottom of this page)! Have suggestions for a dataset you want to look at? Let us know!\n              We typically meet on Wednesdays 8-9 PM ET on our recurring Zoom link.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-05-12T21:38:08-04:00"
+      "contents": "\n\n          \n      \n      RLadies Amherst\n      \n      \n      Home\n      About\n      Events\n      Tidy Tuesday\n      Members\n      ☰\n      \n      \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About Us\n            RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We are part of the world-wide RLadies organization that promotes gender diversity in the R community. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events, regardless of gender identity!\n            \n            \n            Join Us!\n            Join our GroupMe! Want to join our Slack channel? Click the email button on the left! Have suggestions for a dataset you want to look at? Let us know!\n            We typically meet on Wednesdays 8-9 PM EST on our recurring Zoom link.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              RLadies Amherst\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              About Us\n              RLadies Amherst is a group that promotes gender inclusivity in statistics and data science at Amherst. We are part of the world-wide RLadies organization that promotes gender diversity in the R community. We will be holding multiple events throughout the semester, including speakers, panels, and more. All are welcome to attend these events, regardless of gender identity!\n              \n              \n              Join Us!\n              Join our GroupMe! Want to join our Slack channel? Click the email button on the left! Have suggestions for a dataset you want to look at? Let us know!\n              We typically meet on Wednesdays 8-9 PM EST on our recurring Zoom link.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-05-27T23:34:28-04:00"
     },
     {
       "path": "members.html",
       "title": "Members",
-      "description": "A new article created using the Distill format.\n",
-      "author": [
-        {
-          "name": "Nora Jones",
-          "url": "https://example.com/norajones"
-        }
-      ],
-      "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-05-12T21:38:09-04:00"
+      "description": "Current RLadies Members\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\nSome of our 2020-2021 RLadies include Andrea Boskovic (’21), Jessica Yu (’22), Kim Zhou (’22), Ainsley Mackenzie (’22), and Kriti Verma (’22).\n\n\n\n",
+      "last_modified": "2021-05-27T23:34:30-04:00"
     },
     {
       "path": "projects.html",
       "title": "Tidy Tuesday",
-      "description": "A new article created using the Distill format.\n",
+      "description": "Creations from Tidy Tuesday meetings\n",
       "author": [],
-      "date": "`r Sys.Date()`",
-      "contents": "\n\nA Shiny app to visualize dairy data!\n\n\n\n",
-      "last_modified": "2021-05-12T21:38:09-04:00"
+      "contents": "\nDuring one meeting, Steph, Kim, and Andrea made this visualization using the Avatar dataset. They compared how often each character spoke during each episode of Season 1 to the IMDB rating of the episode.\n\n\n\nAndrea looked at wealth inequality by race over time using this Tidy Tuesday dataset.\n\n\n\nSteph, Kim, and Andrea investigated the severity of plastic pollution by the Coca-Cola corporation in different countries\n\n\n\nAndrea made this Shiny app to visualize dairy data. Check it out!\n\n\n\n",
+      "last_modified": "2021-05-27T23:34:30-04:00"
     }
   ],
   "collections": []

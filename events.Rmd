@@ -1,24 +1,38 @@
 ---
 title: "Events"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
+  A list of past and upcoming RLadies events
 output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+# Fall 2021: Information Coming Soon
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+# Spring 2021
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+In addition to weekly Tidy Tuesday sessions, we had the following special events.
 
+## Monday Mar 29 5:30-6:30: Maria Tackett 
+We are pleased to have Maria Tackett coming to speak about building websites in RStudio! She motivates why RStudio is useful for building websites, discusses Distill and Blogdown, two R packages used for website development, and concludes by sharing tips and some lessons she learned along the way.
+
+## Wednesday Apr 14 8-9: Python for R Users Crash Course
+Jessica and Andrea will hold a quick, hands-on Python crash course for people with some familiarity with R. 
+
+# Spring 2020
+
+## Amy Nussbaum: Visualizing Data Through Maps
+Amy Nussbaum is a Professor of Statistics at Mount Holyoke College. She will be giving a talk about data visualization with maps. 
+
+## Brittney Bailey and Katharine Correia: Panel on Careers in Statistics and Data Science
+Brittney Bailey and Katharine Correia are both professors at Amherst College. They will be speaking about their academic journies in statistics. This event is in the form of a panel, so feel free to come with questions.
+
+## Krista Gile
+Krista Gile, Professor in the Mathematics and Statistics Department at UMass Amherst, will be discussing her personal journey interwoven with her research. Professor Giles' research focuses on creating a statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures.
+
+## Sara Stoudt
+Sara Stoudt, a former Smith College student, will be giving an overview of her work and then doing a question and answer about career opportunities. Sara now does research in Applied and Theoretical Statistics at the University of California, Berkeley.
+
+## Dana Udwin
+Dana Udwin, a Smith College alumna and third-year Biostatistics PhD student at Brown University, reflects on industry and graduate school in statistics and data science. As a graduate of the MassMutual Data Science Development Program, a program in which she worked as a data scientist and pursued a master's in statistics from UMass Amherst, Dana has a unique perspective on industry and academia.
 
 
 
