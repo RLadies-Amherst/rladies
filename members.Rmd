@@ -1,7 +1,7 @@
 ---
 title: "Members"
 description: |
-  Current RLadies Members
+  Current and Former RLadies Members
 output: distill::distill_article
 ---
 
@@ -13,5 +13,3 @@ library(knitr)
 ```{r, echo = FALSE}
 include_graphics("photos/all_together.png")
 ```
-
-Some of our 2020-2021 RLadies include Andrea Boskovic ('21), Jessica Yu ('22), Kim Zhou ('22), Ainsley Mackenzie ('22), and Kriti Verma ('22). 
